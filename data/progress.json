@@ -18,5 +18,12 @@
       "progress": 0
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "date": "2026-09-26",
+      "track": "英语",
+      "topic": "英语聊天纠错：过去时 / 现在进行时 / freeze / actually / still 等",
+      "minutes": 23
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "tracks": [
     {
       "name": "华为现代产业学院",
-      "progress": 0
+      "progress": 6
     },
     {
       "name": "蓝桥杯",
@@ -22,7 +22,7 @@
     {
       "date": "2026-09-26",
       "track": "英语",
-      "topic": "英语聊天纠错：过去时 / 现在进行时 / freeze / actually / still 等",
+      "topic": "英语聊天纠错：过去时 / 现在进行时 / pip / venv / freeze / actually / still / strip",
       "minutes": 23
     }
   ]
